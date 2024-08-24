@@ -43,4 +43,5 @@ You will be able to download the tables in excel format, individual plots at hig
 # R version and platform
 
 R version 4.4.1 (2024-06-14) -- "Race for Your Life"
+
 platform       x86_64-pc-linux-gnu  
