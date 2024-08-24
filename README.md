@@ -23,17 +23,17 @@ You can select a Year Range from one to several years. The only limitation is a 
 # Usage
 The Shiny app has included checkups for dependencies. Any initial usage will confirm all dependencies are installed, otherwise, they will be installed and confirmation for updates will be displayed specifically in your system. If some dependency is not properly installed it will be reported
 
-When running the app with the default coordinates, The following plots will be generated
+When running the app with the default coordinates, The following plots will be generated:
 
-Day length attending to latitude
+<b>Day length attending to latitude</b>
 
 <img width="872" alt="1" src="https://github.com/user-attachments/assets/b37a6b49-db8a-44db-a821-e4f90f60d96f">
 
-Irradinace plot
+<b>Irradinace plot</b>
 
 <img width="878" alt="2" src="https://github.com/user-attachments/assets/c838eb94-d3b9-4ed8-af4e-a48df943097f">
 
-Temperature plot
+<b>Temperature plot</b>
 
 <img width="878" alt="3" src="https://github.com/user-attachments/assets/5b50eeb4-3ca6-4197-b8bf-d868898b408b">
 
