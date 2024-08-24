@@ -30,9 +30,11 @@ Day length attending to latitude
 <img width="872" alt="1" src="https://github.com/user-attachments/assets/b37a6b49-db8a-44db-a821-e4f90f60d96f">
 
 Irradinace plot
+
 <img width="878" alt="2" src="https://github.com/user-attachments/assets/c838eb94-d3b9-4ed8-af4e-a48df943097f">
 
 Temperature plot
+
 <img width="878" alt="3" src="https://github.com/user-attachments/assets/5b50eeb4-3ca6-4197-b8bf-d868898b408b">
 
 
