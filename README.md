@@ -1,1 +1,44 @@
 # Combined-Climate-Data-Analysis
+
+The Combined Climate Data Analysis tool is a Shiny app designed to send geographic coordinates and obtain environmental data related to light, its duration, its quality, as well as temperature data for academic purposes.
+
+For correct operation, the data is entered in the latitude and longitude boxes, separating each value by a comma. 3 examples, 63.27N,16.01E; 63.82N20.26E;66.70N22.53E will be indicated as
+
+Enter Latitudes (comma-separated):
+63.27,63.82,66.70
+Enter Longitudes (comma-separated):
+16.01,20.26,22.53
+
+The public repositories used in the query are:
+
+* suncalc library in R to calculate Day Lenght plot according to the latitude.
+
+* NASA Prediction Of Worldwide Energy Resources (POWER) database. Specifically a recalculation of the daily Averaged Daily CERES All Sky Surface Shortwave Downward Irradiance. The total solar irradiance incident (direct plus diffuse) on a horizontal plane at the surface of the earth under all sky conditions. An alternative term for the total solar irradiance is the "Global Horizontal Irradiance" or GHI.
+
+* National Oceanic and Atmospheric Administration (NOAA) database to obtain temperature data.
+
+You can select a Year Range from one to several years. The only limitation is a query to an unfinished year. The recomendation is not to extend the range to unfinished years, as not all the data will be available in some of the databases.
+
+
+# Usage
+The Shiny app has included checkups for dependencies. Any initial usage will confirm all dependencies are installed, otherwise, they will be installed and confirmation for updates will be displayed specifically in your system. If some dependency is not properly installed it will be reported
+
+When running the app with the default coordinates, The following plots will be generated
+
+Day length attending to latitude
+
+<img width="872" alt="1" src="https://github.com/user-attachments/assets/b37a6b49-db8a-44db-a821-e4f90f60d96f">
+
+Irradinace plot
+<img width="878" alt="2" src="https://github.com/user-attachments/assets/c838eb94-d3b9-4ed8-af4e-a48df943097f">
+
+Temperature plot
+<img width="878" alt="3" src="https://github.com/user-attachments/assets/5b50eeb4-3ca6-4197-b8bf-d868898b408b">
+
+
+You will be able to download the tables in excel format, individual plots at high resolution and a PDF document with all the plots.
+
+# R version and platform
+
+R version 4.4.1 (2024-06-14) -- "Race for Your Life"
+platform       x86_64-pc-linux-gnu  
