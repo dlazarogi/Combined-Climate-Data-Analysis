@@ -5,8 +5,11 @@ The Combined Climate Data Analysis tool is a Shiny app designed to send geograph
 For correct operation, the data is entered in the latitude and longitude boxes, separating each value by a comma. 3 examples, 63.27N,16.01E; 63.82N20.26E;66.70N22.53E will be indicated as
 
 Enter Latitudes (comma-separated):
+
 63.27,63.82,66.70
+
 Enter Longitudes (comma-separated):
+
 16.01,20.26,22.53
 
 The public repositories used in the query are:
