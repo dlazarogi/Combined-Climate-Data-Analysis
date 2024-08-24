@@ -2,7 +2,7 @@
 
 The Combined Climate Data Analysis tool is a Shiny app designed to send geographic coordinates and obtain environmental data related to light, its duration, its quality, as well as temperature data for academic purposes.
 
-For correct operation, the data is entered in the latitude and longitude boxes, separating each value by a comma. 3 examples, 63.27N,16.01E; 63.82N20.26E;66.70N22.53E will be indicated as
+For correct operation, the data is entered in the latitude and longitude boxes, separating each value by a comma. 3 examples,<b> 63.27N,16.01E</b>; <b>63.82N20.26E</b>;<b>66.70N22.53E</b> will be indicated as
 
 <b>Enter Latitudes (comma-separated):</b>
 
