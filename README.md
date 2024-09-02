@@ -32,7 +32,8 @@ When running the app with the default coordinates, The following plots will be g
 
 <b>Day length attending to latitude</b>
 
-<img width="872" alt="1" src="https://github.com/user-attachments/assets/b37a6b49-db8a-44db-a821-e4f90f60d96f">
+<img width="878" alt="3" src="https://github.com/user-attachments/assets/c8432218-d68d-4719-a8c2-519cdb2b59ec)>
+
 
 <b>Irradinace plot</b>
 
